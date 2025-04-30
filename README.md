@@ -37,3 +37,8 @@
      - Public sharing
      - Advanced search
      - Collaborative editing
+
+
+   5.  **For the login credential use**
+     email-user@gmail.com
+     password - user@420
